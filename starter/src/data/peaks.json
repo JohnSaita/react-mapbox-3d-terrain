@@ -1,0 +1,85 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "id": 294560693,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.30921,
+     -0.15271
+    ]
+   },
+   "properties": {
+    "name": "Batian",
+    "ele": 5199,
+    "osm": "node/294560693"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 294572185,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.30929,
+     -0.15346
+    ]
+   },
+   "properties": {
+    "name": "Nelion",
+    "ele": 5188,
+    "osm": "node/294572185"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 612932142,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.31776,
+     -0.15516
+    ]
+   },
+   "properties": {
+    "name": "Point Lenana",
+    "ele": 4985,
+    "osm": "node/612932142"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 3055758367,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.31363,
+     -0.15339
+    ]
+   },
+   "properties": {
+    "name": "Point Thomson",
+    "ele": 4955,
+    "osm": "node/3055758367"
+   }
+  },
+  {
+   "type": "Feature",
+   "id": 3055652014,
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     37.30683,
+     -0.14809
+    ]
+   },
+   "properties": {
+    "name": "Point Dutton",
+    "ele": 4885,
+    "osm": "node/3055652014"
+   }
+  }
+ ]
+}
